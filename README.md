@@ -1,5 +1,6 @@
 # Database-project
 Tables:
+
 course (course_id, title, dept_name, credits)
 
 instructor (ID, name, dept_name, salary)
