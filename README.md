@@ -1,5 +1,5 @@
 # Database-project
-Tables:
+## Tables:
 
 course (course_id, title, dept_name, credits)
 
@@ -12,7 +12,7 @@ student (ID, name, dept_name, tot_cred)
 takes (ID, course_id, sec_id, semester, year, grade)
 
 
-Queries:
+## Queries:
 
 Find the student's name whose ID = "113".
 
